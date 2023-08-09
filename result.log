@@ -1,0 +1,2 @@
+INFO:__main__:{'level': 0, 'function': 'sum_ever', 'arguments': [5, 10], 'result': 15}
+INFO:__main__:2023-08-08 18:52:05.034612
